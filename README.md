@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 研究ではPythonを使用
 - 長期のインターンバイトでもPythonを使用
 - インターンシップでフロントエンドにReact、バックエンドにPythonを用いてアプリケーション開発
-
+### 言語
 - Python
   - 研究と長期インターンバイトで日常的に使用
   - Webアプリケーション開発にはDjango, Flaskを使える
