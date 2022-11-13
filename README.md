@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - Javascript(React)
     - インターンシップで使用
-    - 一人でアプリ作れるくらい
+    - 一人で簡単なアプリ作れるくらい
     - TypeScriptはそんなに書いてない
 
 - Ruby(Rails)
